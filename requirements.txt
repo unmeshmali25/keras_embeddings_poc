@@ -1,0 +1,4 @@
+matplotlib==3.7.1
+session_info==1.0.0
+tensorflow==2.12.0
+umap==0.5.3

@@ -1,0 +1,16 @@
+After sorting : ['apple', 'banana', 'orange'] 
+
+After mapping to integer indices : {'apple': 0, 'banana': 1, 'orange': 2} 
+
+List of interger indices : [0, 1, 2, 1, 2, 0] 
+
+Tensor with column data : [0 1 2 1 2 0] 
+
+Here's the embeddings  : [[ 0.04969538 -0.02892851  0.03966725 -0.01774777]
+ [-0.02181077  0.01196005 -0.00519612  0.00867243]
+ [-0.02839041  0.02923438  0.01274996 -0.04453365]
+ [-0.02181077  0.01196005 -0.00519612  0.00867243]
+ [-0.02839041  0.02923438  0.01274996 -0.04453365]
+ [ 0.04969538 -0.02892851  0.03966725 -0.01774777]]
+
+ // Image not shown here. It's a two dimensional distribution of the above data points
